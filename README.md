@@ -1,4 +1,4 @@
-# Software-Testing
+# Problems
 ## 1
 ![alt tag](https://github.com/AdrianBesleaga/Software-Testing/blob/master/Problema_1.jpg)
 ## 2
