@@ -3,5 +3,7 @@
 ![alt tag](https://github.com/AdrianBesleaga/Software-Testing/blob/master/Problema_1.jpg)
 ## 2
 ![alt tag](https://github.com/AdrianBesleaga/Software-Testing/blob/master/Problema_2.jpg)
+## 3
+![alt tag](https://github.com/AdrianBesleaga/Software-Testing/blob/master/Problema_3.jpg)
 ## 4
 ![alt tag](https://github.com/AdrianBesleaga/Software-Testing/blob/master/Problema_4.jpg)
